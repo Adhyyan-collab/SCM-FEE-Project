@@ -14,7 +14,7 @@ background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoca
   font-size: 180%;
 }
 
-@media only screen and (min-width: 500px) {
+@media only screen and (min-width: 498px) {
   body {
     min-height: 100vh ;
   }
@@ -55,7 +55,7 @@ background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoca
   }
 }
 .heading__img {
-  width: 34%;
+  width: 32%;
 }
 
 .form__label {
@@ -121,7 +121,7 @@ background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoca
 }
 .toDoList li {
   position: relative;
-  padding: 0.5rem;
+  padding: 0.6rem;
 }
 .toDoList li:hover {
   text-decoration: line-through wavy #24bffb;
