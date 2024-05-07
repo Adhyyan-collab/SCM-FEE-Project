@@ -8,15 +8,15 @@ background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoca
   display: flex;
   justify-content: center;
   align-items: center;
-  color: #494a4b;
+  color: #482a4b;
   font-family: "Gochi Hand", cursive;
   text-align: center;
-  font-size: 180%;
+  font-size: 178%;
 }
 
 @media only screen and (min-width: 498px) {
   body {
-    min-height: 100vh ;
+    min-height: 105vh ;
   }
 }
 .container {
