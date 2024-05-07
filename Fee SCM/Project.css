@@ -2,7 +2,7 @@
 body {
 background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQocaXlzqIsrL0R-MAhxy4YDyXiKn6qaXf7yA&usqp=CAU);
   background-color: #a39bd2;
-  min-height: 70vh;
+  min-height: 68vh;
   padding: 1rem;
   box-sizing: border-box;
   display: flex;
@@ -51,7 +51,7 @@ background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoca
 
 @media only screen and (min-width: 500px) {
   .heading__title {
-    font-size: 4rem;
+    font-size: 5rem;
   }
 }
 .heading__img {
